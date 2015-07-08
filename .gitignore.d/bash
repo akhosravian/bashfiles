@@ -1,4 +1,5 @@
 *
+!/.agignore
 !/.bash_profile
 !/.bashrc
 !/.gitignore.d
