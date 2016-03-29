@@ -2,6 +2,11 @@ Builds/
 Library/
 Temp/
 obj/
+
+UnityBuild.log
 *.csproj
-*.sln
+*.manifest
+*.pbxproj
+*.DotSettings
 **.DotSettings.user
+*.sln
