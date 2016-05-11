@@ -15,6 +15,7 @@ obj/
 *.png
 *.sln
 
+AssetPathsManifest
 UnityBuild.log
 *.asset
 *.anim
@@ -25,4 +26,5 @@ UnityBuild.log
 *.prefab
 *.swf
 *.ttf
+*.unity
 *.unitypackage
