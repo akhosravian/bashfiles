@@ -6,7 +6,6 @@ export PATH=$PATH:$GOPATH/bin:$ANDROID_SDK/tools:$ANDROID_SDK/platform-tools
 export FIGNORE=meta
 alias tmux="tmux -2"
 unset PROMPT_COMMAND
-source $(brew --repository)/Library/Contributions/brew_bash_completion.sh
 if [ -n "$TMUX" ]; then
     if [ -e ~/Library/Python/2.7/lib/python/site-packages/powerline/bindings/tmux/powerline.conf ]; then 
         tmux source ~/Library/Python/2.7/lib/python/site-packages/powerline/bindings/tmux/powerline.conf
