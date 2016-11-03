@@ -1,7 +1,7 @@
 export EDITOR=vi
 export GOPATH=$HOME/go
 export ANDROID_SDK=$HOME/android
-export ANDROID_LOG_TAGS="Unity:V Nimble:S *:S"
+#export ANDROID_LOG_TAGS="Unity:V Nimble:S *:S"
 export PATH=$PATH:$GOPATH/bin:$ANDROID_SDK/tools:$ANDROID_SDK/platform-tools
 export FIGNORE=meta
 alias tmux="tmux -2"
