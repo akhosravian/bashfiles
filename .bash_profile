@@ -14,3 +14,5 @@ if [ -n "$TMUX" ]; then
         tmux source /usr/local/lib/python2.7/site-packages/powerline/bindings/tmux/powerline.conf
     fi
 fi
+export P4CONFIG=$HOME/code/one/p4config.txt
+export UE_SHARED_DATA_CACHE_PATH=$HOME/code/ddc
