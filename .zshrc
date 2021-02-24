@@ -1,1 +1,1 @@
-/Users/andrew.june/.bash_profile
+.bash_profile
